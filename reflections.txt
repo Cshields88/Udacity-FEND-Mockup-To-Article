@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+New Skills Learned:
+-Subscript
+-strikethrough
+
+Easy:
+-Well considering I am on the neighborhood map project and have researched most of this before watching videos on Udemy and YouTube, I would say everything!
+
+Difficult:
+-None
+
+Problem Solving:
+-Didn't have a need to use them here, but will use them in the future.
